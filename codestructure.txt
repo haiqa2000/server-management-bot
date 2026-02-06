@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 discord-server-bot/
 ├── src/
 │   ├── main.js
@@ -33,3 +34,40 @@ discord-server-bot/
 ├── .env
 ├── package.json
 └── README.md
+=======
+discord-server-bot/
+├── src/
+│   ├── main.js
+│   ├── config.json
+│   ├── utils/
+│   │   ├── database.js
+│   │   ├── embedBuilder.js
+│   │   └── logger.js
+│   ├── commands/
+│   │   ├── help.js
+│   │   ├── counting.js
+│   │   ├── tickets.js
+│   │   ├── rank.js
+│   │   ├── birthdays.js
+│   │   ├── roles.js
+│   │   ├── moderation.js
+│   │   ├── stickMessage.js
+│   │   └── utilities.js
+│   └── events/
+│       ├── ready.js
+│       ├── messageCreate.js
+│       ├── interactionCreate.js
+│       └── messageDelete.js
+├── data/
+│   ├── counting.json
+│   ├── ranks.json
+│   ├── birthdays.json
+│   └── tickets.json
+├── website/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── .env
+├── package.json
+└── README.md
+>>>>>>> 00a1228229a7e3bdb54e4ee910a6cbf0722bd8fa

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "discord-server-bot",
   "version": "1.0.0",
@@ -16,3 +17,23 @@
     "nodemon": "^3.0.0"
   }
 }
+=======
+{
+  "name": "discord-server-bot",
+  "version": "1.0.0",
+  "description": "Modular Discord server management bot",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
+>>>>>>> 00a1228229a7e3bdb54e4ee910a6cbf0722bd8fa
