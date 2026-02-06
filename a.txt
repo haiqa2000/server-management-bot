@@ -1,0 +1,18 @@
+Code a server management bot primarily in javascript, you may use python where required and a complete documentation the will be deployed on github pages in html css and js too and make it look as pleasingly aesthetic as you can, I personally prefer dark colors. I will be hosting the bot on bot-hosting.net
+Also give me a list of all the extensions I might need in vs code to work with this and I don’t have python installed either for now
+For the bot make one main file that runs everything and separate files for each command so that when I want to edit it I can work on it myelf, don’t give me just one ready file because that messes up things, other than that I need a readme.md file too, u may add a database option if needed to store birthdays and other stuff
+The following features are required in the bot:
+	1. Counting: reacts tick and cross, gives 2 chances if done wrong and on third reset counts, if someone deletes a number after sending bot sends it too
+	2. A ticket system, to create tickets giving options to add people, claim ticket and close ticket and all the others as well and other options as you seem fit and a log system
+	3. A help command ofcourse
+	4. Only prefixxed commands only slash command for help
+	5. Rank system on based on chats reaction and stuff and also being able to check ranks with leaderboards
+	6. Allowing to put sticked messages 
+	7. Also sending messages in embed form like rules and stuff (admin only)
+	8. A message logger 
+	9. Custom role commands available for server boosters only untill they boost with color, icon and sharing options like giving ppl ur role using <prefix> share @user and unshare
+	10. Birthdays system
+	11. A nickname command attached with a specific role (staff cab change only their nicknames, admins can change everyone's nicknames, normal people cant)
+	12. Other moderation and Utility commands 
+	13. Commands that I may have forgotten to mention
+I hope my instructions are clear that is all im gonna say you can start working on it now
